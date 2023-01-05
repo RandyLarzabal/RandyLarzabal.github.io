@@ -1,8 +1,8 @@
 {
-    "lang": "en-us",
-    "name": "My Sample PWA",
-    "short_name": "SamplePWA",
-    "description": "A sample PWA for testing purposes",
+    "lang": "fr",
+    "name": "Randy Larzabal APP",
+    "short_name": "Randy Larzabal APP",
+    "description": "Telecharger pour recevoir des cheveux de Randy Larzabal",
     "start_url": "/",
     "background_color": "#2f3d58",
     "theme_color": "#2f3d58",
